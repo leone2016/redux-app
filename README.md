@@ -1,4 +1,5 @@
-# comandos digitados en el cmd https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
+# comandos digitados en el cmd 
+https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
 
 * npm install bootstrap --save
 * **ng serve -o** - *inicia la app*
@@ -17,4 +18,4 @@
 ``` 
 ## NGRX 
 * [Registration](https://github.com/ngrx/platform) - documentacion ngrx
-    -[Registration](https://github.com/ngrx/platform/blob/master/docs/store/README.md) - documentacion store *Installation*
+    - [Registration](https://github.com/ngrx/platform/blob/master/docs/store/README.md) - documentacion store *Installation*
